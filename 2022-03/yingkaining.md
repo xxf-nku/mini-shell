@@ -1,1 +1,0 @@
-Thanks for your excellent tutorial about Git.

@@ -1,4 +1,0 @@
-learning 
-git
-is
-easy

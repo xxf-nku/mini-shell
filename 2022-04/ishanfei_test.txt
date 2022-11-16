@@ -1,2 +1,0 @@
-git switch -c dev2 origin/dev2
-git branch --set-upstream-to=origin/dev2 dev2

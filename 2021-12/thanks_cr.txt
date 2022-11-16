@@ -1,3 +1,0 @@
-This is a test from cr;
-For testing function 'fork','clone','pull','push';
-And thanks liao very much;

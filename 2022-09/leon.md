@@ -1,7 +1,0 @@
-:smiley:
-
-:smile:
-
-:laughing:
-
-

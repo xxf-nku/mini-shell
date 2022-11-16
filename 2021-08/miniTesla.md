@@ -1,1 +1,0 @@
-Good tutorial and excellent painting!

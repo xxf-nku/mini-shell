@@ -1,2 +1,0 @@
-test pull request.
-And thanks for your Git and Python tutorial.
